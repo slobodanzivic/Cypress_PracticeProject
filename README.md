@@ -46,7 +46,7 @@
 `node_modules/.bin/cypress open`
 
 
-## This project contains the following:
+## This `project` contains the following:
 * cypress
 * node_modules
 * cypress.json
@@ -75,10 +75,10 @@
 
 `npm run test`
 
-## Cypress Dashboard
+## Cypress `Dashboard`
 [Cypress Dashboard](https://dashboard.cypress.io/projects/ssivg1/runs/1/specs)
 
-## Cypress Video
+## Cypress `Video`
 [Cypress video](https://dashboard.cypress.io/projects/ssivg1/runs/1/specs/74f59b6a-8a48-4b02-bb37-5d47ddc77364/video)
 
 
