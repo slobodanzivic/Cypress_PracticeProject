@@ -42,6 +42,7 @@
 [Follow these instructions to install Cypress.](https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements "Installing Cypress")
 
 ## Opening Cypress
+
 `node_modules/.bin/cypress open`
 
 
@@ -68,6 +69,13 @@
 ## Folder Support contains:
 * pageObjects folder
     * HomePage.js
+
+
+## Running tests from Terminal
+
+`npm run test`
+
+
 
 
 
