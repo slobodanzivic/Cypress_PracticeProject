@@ -4,13 +4,13 @@
 #### Version 1.0.0
 
 ## Description
-#### PracticePageCypress is used for testing some basic functionalities in Cypress. There are 12 tests in this project.
+#### PracticePageCypress is used for testing some basic functionalities. There are 12 tests in this project.
 #### Target application URL is: https://rahulshettyacademy.com/AutomationPractice/
 #### Target browser: Chrome, Chromium, Firefox, Electron
 #### Chrome version: 83.0.4103.61 (Official build)(64-bit)
 #### Chromium version: 83.0.4103.116 
 #### Firefox version: 68.12.Oesr(64-bit)
-#### Electron version: 83(64-bit)
+#### Electron version: 8.3.0(64-bit)
 
 ### The following website functionalities are tested:
 * radio buttons
@@ -38,7 +38,7 @@
 [Follow these instructions to install Cypress.](https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements "Installing Cypress")
 
 
-## This project contains 5 packages:
+## This project contains the following:
 * cypress
 * node_modules
 * cypress.json
