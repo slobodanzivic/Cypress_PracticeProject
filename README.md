@@ -76,7 +76,7 @@
 `npm run test`
 
 ## Cypress Dashboard
-[Link for Cypress Dashboard](https://dashboard.cypress.io/projects/ssivg1/runs/1/specs)
+[Cypress Dashboard](https://dashboard.cypress.io/projects/ssivg1/runs/1/specs)
 
 ## Cypress Video
 [Cypress video](https://dashboard.cypress.io/projects/ssivg1/runs/1/specs/74f59b6a-8a48-4b02-bb37-5d47ddc77364/video)
